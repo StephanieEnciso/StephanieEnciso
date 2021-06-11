@@ -1,4 +1,4 @@
-### Hello! I'm Stephanie Enciso 👋
+### ¡Hola! I'm Stephanie Enciso. 👋
 
 
 - 🔭 I’m currently working on Human Rights First - Blue Witness
