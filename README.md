@@ -1,8 +1,8 @@
 ### ¡Hola! I'm Stephanie Enciso. 👋
 
 
-- 🔭 I’m currently working on Human Rights First - Blue Witness
-- 🌱 I’m currently learning computer science and Python
+- 🔭 I’m currently working at Sweetgreen
+- 🌱 I’m currently learning Ruby on Rails
 - 👯 I’m looking to collaborate on Node.js and React
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about anything
